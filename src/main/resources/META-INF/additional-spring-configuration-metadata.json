@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "es.cluster.hosts",
+    "type": "java.lang.String",
+    "description": "A description for 'es.cluster.hosts'"
+  },
+  {
+    "name": "es.cluster.port",
+    "type": "java.lang.String",
+    "description": "A description for 'es.cluster.port'"
+  },
+  {
+    "name": "es.cluster.shards",
+    "type": "java.lang.String",
+    "description": "A description for 'es.cluster.shards'"
+  },
+  {
+    "name": "es.cluster.replicas",
+    "type": "java.lang.String",
+    "description": "A description for 'es.cluster.replicas'"
+  },
+  {
+    "name": "es.cluster.indexType",
+    "type": "java.lang.String",
+    "description": "A description for 'es.cluster.indexType'"
+  }
+]}

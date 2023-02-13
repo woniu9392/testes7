@@ -1,0 +1,11 @@
+server:
+  port: 8888
+es:
+  cluster:
+#    hosts: 10.250.4.5,10.250.4.6,10.250.4.7
+#    port: 19200
+    hosts: es-cn-zvp2rf7re0005pb31.elasticsearch.aliyuncs.com
+    port: 9200
+    shards: 3
+    replicas: 2
+    indexType: test
